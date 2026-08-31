@@ -2,8 +2,8 @@
 
 # Bem vindo ao meu repositório.
 
-# Marcondes?!
+## Marcondes?!
 # Iniciando Graduação em Ciência da Computação
 
-# Ctt
+## Contato
 # E-mail: marcondes.dos@gmail.com
