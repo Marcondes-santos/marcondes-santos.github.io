@@ -2,8 +2,8 @@
 
 # Bem vindo ao meu repositório.
 
-## Marcondes?!
-# Iniciando Graduação em Ciência da Computação
+## Quem é Marcondes?
+# Iniciando Graduação em Ciência da Computação.
 # Trabalho em uma área diferente, mas sempre tive vontade de conhecer esse mundo ligado a tecnologia.
 
 ## Contato
